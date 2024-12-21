@@ -4,7 +4,7 @@ Challenge #18 MERN+Authentication
 
 ## Description 
 
- This application allows any user who likes to read books to search for new books and create a list of books to purchase.
+This application allows any user who likes to read books to search for new books and create a list of books to purchase.
 
 ## Table of Contents: 
 
