@@ -1,4 +1,4 @@
-# Book Lovers' Search Engine
+# Book-Lovers Search Engine
 
 Challenge #18 MERN+Authentication
 
@@ -8,7 +8,7 @@ Challenge #18 MERN+Authentication
 
 ## Table of Contents: 
 
-1. [Title](#Book-Lovers'-Search-Engine) 
+1. [Title](#book-lovers-search-engine) 
 2. [Description](#description) 
 3. [Table of Contents](#table-of-contents) 
 4. [Technologies Used](#technologies-used) 
