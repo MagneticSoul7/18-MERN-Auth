@@ -14,10 +14,9 @@ This application allows any user who likes to read books to search for new books
 4. [Technologies Used](#technologies-used) 
 5. [User Story](#user-story) 
 6. [Installation](#installation) 
-7. [Usage](#usage) 
-8. [Contributors/Author Info](#contributorsauthor-info) 
-9. [License](#license) 
-10. [Deployed Link](#deployed-link) 
+7. [Contributors/Author Info](#contributorsauthor-info) 
+8. [License](#license) 
+9. [Deployed Link](#deployed-link) 
 
 ## Technologies Used
 
@@ -51,9 +50,6 @@ SO THAT I can make a list of books I'd like to purchase.
 
 N/A
 
-## Usage 
-
-
 ## Contributors/Author Info
 
 * Heather Serrano (magneticsoul7) https://github.com/MagneticSoul7 
@@ -62,5 +58,6 @@ N/A
 
 MIT License.
 
-## Deployed Link
+## Deployed Link 
 
+https://book-lovers-search-engine.onrender.com  
